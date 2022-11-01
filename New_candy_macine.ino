@@ -25,7 +25,7 @@ const int rotations = 1;
 const int trigPin = D5;
 const int echoPin = D6;
 float duration, distance; 
-int handDist = 10;
+int handDist = 20;
 
 bool covered;
 
